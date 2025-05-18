@@ -1,2 +1,2 @@
-# SQL-and-PowerBI
-Database(MySql) And PowerBI dashboards
+SQL and Power BI
+Relational Database (MySQL) Integration and Interactive Dashboard Development with Power BI
